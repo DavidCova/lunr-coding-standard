@@ -79,6 +79,7 @@
   </rule>
 
   <rule ref="Generic.Arrays.ArrayIndent"/>
+  <rule ref="Squiz.Arrays.ArrayDeclaration"/>
   <rule ref="Squiz.Arrays.ArrayDeclaration.KeyNotAligned">
     <severity>0</severity>
   </rule>
